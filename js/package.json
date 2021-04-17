@@ -1,0 +1,17 @@
+{
+  "name": "@webbinaro/adkhomepage",
+  "dependencies": {
+    "flarum-webpack-config": "^0.1.0-beta.10",
+    "webpack": "^4.26.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production",
+    "format": "prettier --write src",
+    "format-check": "prettier --check src"
+  }
+}
