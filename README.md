@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of webbinaro/flarum-adkhomepage.** Not for installation: use [Packagist](https://packagist.org/packages/webbinaro/flarum-adkhomepage) or the [upstream repository](https://github.com/eddiewebb/flarum-adkhomepage).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
+**11** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2021-03-20 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.1) |
+| `0.0.10` | 2021-04-25 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.10) |
+| `0.0.2` | 2021-03-25 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.2) |
+| `0.0.3` | 2021-03-29 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.3) |
+| `0.0.4` | 2021-03-30 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.4) |
+| `0.0.5` | 2021-04-01 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.5) |
+| `0.0.6` | 2021-04-02 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.6) |
+| `0.0.7` | 2021-04-17 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.7) |
+| `0.0.8` | 2021-04-18 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.8) |
+| `0.0.9` | 2021-04-25 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tree/archive/v0.0.9) |
+
+[View all 11 versions](https://github.com/flarchive/webbinaro-flarum-adkhomepage/tags)
 
 Catalog entry: [packages/webbinaro-flarum-adkhomepage.json](https://github.com/flarchive/archive-index/blob/main/packages/webbinaro-flarum-adkhomepage.json)
 
